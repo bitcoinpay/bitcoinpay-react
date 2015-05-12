@@ -1,0 +1,6 @@
+site_name: BitcoinPay.com for Payment Gateways
+pages:
+- [index.md, Home]
+- [implementation.md, Example implementation in Python]
+- [customize.md, Customization]
+theme: readthedocs
